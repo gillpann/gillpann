@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**gillpann/gillpann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+I'm an Informatics student with a strong passion for web development and modern UI/UX design.  
+I love exploring new technologies and building responsive, scalable web applications.  
 
-Here are some ideas to get you started:
+Currently, I'm focusing on:  
+- 📌 Frontend development using **Next.js, React.js, and Tailwind CSS**  
+- 🎨 Improving UI/UX design and building clean, user-friendly interfaces  
+- 🚀 Learning about web performance optimization and best practices  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on projects that challenge me to learn and grow as a developer. My goal is to build efficient and visually appealing websites that provide great user experiences.  
+
+## What I'm Doing  
+- 🔍 Exploring **Frontend Development** with **Next.js & React.js**  
+- 🛠 Experimenting with **Tailwind CSS** to create beautiful designs  
+- 📖 Learning about **Web Performance & Optimization**  
+
+## Get in Touch  
+🌍 Portfolio: https://ahmad-gilvan.vercel.app/
