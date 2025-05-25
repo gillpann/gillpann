@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Gilvan</h1>
 
 <p align="center">
-  <img src="https://github.com/gillpann/gillpann/blob/main/assets/mariobros.gif?raw=true" width="700" alt="coding-gif" />
+  <img src="https://github.com/gillpann/gillpann/blob/main/assets/mariobros.gif?raw=true" width="800" alt="coding-gif" />
 </p>
 
 <p align="center">
@@ -42,14 +42,17 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gillpann&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gillpann&theme=tokyonight" height="180" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gillpann&theme=radical" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillpann&layout=compact&theme=tokyonight" />
-</p>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gillpann&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillpann&layout=compact&theme=radical" height="180" />
+  
+</div>
 
 ---
 
