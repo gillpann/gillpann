@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Gilvan</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="700" alt="coding-gif" />
+  <img src="https://github.com/gillpann/gillpann/blob/main/assets/mariobros.gif?raw=true" width="700" alt="coding-gif" />
 </p>
 
 <p align="center">
